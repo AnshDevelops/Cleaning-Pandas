@@ -23,3 +23,18 @@ Model used: AlexNet
 ![image](https://github.com/AnshDevelops/Cleaning-Pandas/assets/152869575/62ad912b-4c81-4950-8ffb-1a55324ebdda)
 
 Results: Accuracy = 98.6%
+
+## Prerequisites
+To run the Jupyter Notebook locally, ensure that you have the following dependencies installed:
+
+* Python (3.6 or higher)
+* Jupyter Notebook
+* PyTorch
+* torchvision
+* fastai
+
+## Additional recommended requirements
+Install the following if you want to use your local GPU:
+
+* Nvidia Cuda (11.7 or higher)
+* Nvidia CuDNN
